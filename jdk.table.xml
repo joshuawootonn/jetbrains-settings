@@ -1,0 +1,1168 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="openjdk-15" />
+      <type value="JavaSDK" />
+      <version value="version 15.0.2" />
+      <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.base" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.compiler" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.datatransfer" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.desktop" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.instrument" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.logging" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.management" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.management.rmi" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.naming" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.net.http" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.prefs" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.rmi" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.scripting" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.se" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.security.jgss" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.security.sasl" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.smartcardio" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.sql" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.sql.rowset" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.transaction.xa" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.xml" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/java.xml.crypto" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.accessibility" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.aot" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.attach" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.charsets" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.compiler" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.dynalink" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.editpad" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.httpserver" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.incubator.foreign" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.incubator.jpackage" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.internal.le" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.jartool" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.javadoc" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.jcmd" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.jconsole" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.jdeps" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.jdi" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.jfr" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.jlink" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.jshell" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.jsobject" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.jstatd" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.localedata" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.management" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.management.agent" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.net" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.sctp" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.security.auth" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.unsupported" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///Users/jwootonn/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.aot" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.nio.mapmode" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.incubator.foreign" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.incubator.jpackage" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-15.0.2/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Kotlin SDK" />
+      <type value="KotlinSDK" />
+      <version value="1.4.32-release-380" />
+      <homePath value="$KOTLIN_BUNDLED$" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="11" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.9" />
+      <homePath value="$APPLICATION_HOME_DIR$/jbr/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/gluegen.rt" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.base" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.compiler" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.datatransfer" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.desktop" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.instrument" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.logging" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.management" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.management.rmi" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.naming" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.net.http" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.prefs" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.rmi" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.scripting" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.se" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.security.jgss" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.security.sasl" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.smartcardio" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.sql" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.sql.rowset" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.transaction.xa" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.xml" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.xml.crypto" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jcef" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.accessibility" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.aot" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.attach" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.charsets" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.compiler" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.dynalink" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.httpserver" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.internal.le" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.jdi" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.jfr" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.jsobject" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.localedata" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.management" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.management.agent" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.net" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.pack" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.sctp" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.security.auth" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.unsupported" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jdk.zipfs" type="simple" />
+            <root url="jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/jogl.all" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://docs.oracle.com/en/java/javase/11/docs/api/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="ruby-2.5.7-p206" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.5.7p206 ( revision 67816) p206" />
+      <homePath value="$USER_HOME$/.asdf/installs/ruby/2.5.7/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.5.7p206 ( revision 67816) p206" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.asdf/installs/ruby/2.5.7/bin">
+        <VERSION_MANAGER ID="system">
+          <custom-configurator>
+            <list />
+          </custom-configurator>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="libtool -static" />
+          <item key="ARFLAGS" value="-no_warning_for_no_symbols -o " />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BUILTIN_TRANSSRCS" value=" enc/trans/newline.c" />
+          <item key="CC" value="clang" />
+          <item key="CCDLFLAGS" value="-fno-common" />
+          <item key="CC_VERSION" value="clang --version" />
+          <item key="CC_VERSION_MESSAGE" value="Apple clang version 12.0.5 (clang-1205.0.22.9)&#10;Target: x86_64-apple-darwin20.5.0&#10;Thread model: posix&#10;InstalledDir: /Library/Developer/CommandLineTools/usr/bin" />
+          <item key="CFLAGS" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens  -fno-common -pipe" />
+          <item key="CHDIR" value="cd -P" />
+          <item key="CONFIGURE" value="configure" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="clang -E" />
+          <item key="CPPFLAGS" value="-I/Users/jwootonn/.asdf/installs/ruby/2.5.7/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT  " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+          <item key="DLDFLAGS" value="-L/Users/jwootonn/.asdf/installs/ruby/2.5.7/lib  -Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress" />
+          <item key="DLEXT" value="bundle" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="ECHO_C" value="\\c" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GIT" value="git" />
+          <item key="GNU_LD" value="no" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="HAVE_GIT" value="yes" />
+          <item key="INSTALL" value="/usr/local/bin/ginstall -c" />
+          <item key="INSTALL_DATA" value="/usr/local/bin/ginstall -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/local/bin/ginstall -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/local/bin/ginstall -c" />
+          <item key="INSTALL_STATIC_LIBRARY" value="no" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -L/Users/jwootonn/.asdf/installs/ruby/2.5.7/lib  -fstack-protector -L/usr/local/lib" />
+          <item key="LDSHARED" value="clang -dynamic -bundle" />
+          <item key="LDSHAREDXX" value="g++ -dynamic -bundle" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="DYLD_LIBRARY_PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libruby.2.5.7.dylib" />
+          <item key="LIBRUBYARG" value="-lruby.2.5.7" />
+          <item key="LIBRUBYARG_SHARED" value="-lruby.2.5.7" />
+          <item key="LIBRUBYARG_STATIC" value="-lruby.2.5.7-static -framework Foundation" />
+          <item key="LIBRUBY_A" value="libruby.2.5.7-static.a" />
+          <item key="LIBRUBY_ALIASES" value="libruby.2.5.dylib libruby.dylib" />
+          <item key="LIBRUBY_RELATIVE" value="no" />
+          <item key="LIBRUBY_SO" value="libruby.2.5.7.dylib" />
+          <item key="LIBRUBY_SONAME" value="libruby.2.5.dylib" />
+          <item key="LIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="LINK_SO" value="&#10;dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
+          <item key="LN_S" value="ln -s" />
+          <item key="MAJOR" value="2" />
+          <item key="MAKEDIRS" value="/usr/local/bin/gmkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="5" />
+          <item key="MKDIR_P" value="/usr/local/bin/gmkdir -p" />
+          <item key="NM" value="nm" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="206" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="POSTLINK" value="dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
+          <item key="PRELOADENV" value="DYLD_INSERT_LIBRARIES" />
+          <item key="PREP" value="miniruby exe/$(PROGRAM)" />
+          <item key="RANLIB" value=":" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir" />
+          <item key="RMDIRS" value="rmdir -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBY_API_VERSION" value="2.5" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_EXEC_PREFIX" value="$USER_HOME$/.asdf/installs/ruby/2.5.7" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="2.5.7" />
+          <item key="RUBY_SO_NAME" value="ruby.2.5.7" />
+          <item key="RUBY_VERSION_NAME" value="ruby-2.5.0" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOEXT" value="dylib" />
+          <item key="SOLIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="STRIP" value="strip -A -n" />
+          <item key="SYMBOL_PREFIX" value="_" />
+          <item key="TEENY" value="7" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="pthread" />
+          <item key="UNICODE_VERSION" value="10.0.0" />
+          <item key="USE_RUBYGEMS" value="YES" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="arch" value="x86_64-darwin20" />
+          <item key="archdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0/x86_64-darwin20" />
+          <item key="archincludedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/x86_64-darwin20" />
+          <item key="archlibdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/x86_64-darwin20" />
+          <item key="bindir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/bin" />
+          <item key="build" value="x86_64-apple-darwin20.5.0" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="darwin20.5.0" />
+          <item key="build_vendor" value="apple" />
+          <item key="cflags" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+          <item key="codesign" value="codesign" />
+          <item key="configure_args" value=" '--prefix=/Users/jwootonn/.asdf/installs/ruby/2.5.7' '--with-openssl-dir=/Users/jwootonn/.asdf/installs/ruby/2.5.7/openssl' '--enable-shared' '--with-readline-dir=/usr/local/opt/readline' 'CC=clang' 'LDFLAGS=-L/Users/jwootonn/.asdf/installs/ruby/2.5.7/lib ' 'CPPFLAGS=-I/Users/jwootonn/.asdf/installs/ruby/2.5.7/include '" />
+          <item key="cxxflags" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+          <item key="datadir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share" />
+          <item key="datarootdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/doc/ruby" />
+          <item key="dsymutil" value="dsymutil" />
+          <item key="dvidir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="$USER_HOME$/.asdf/installs/ruby/2.5.7" />
+          <item key="host" value="x86_64-apple-darwin20.5.0" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin20.5.0" />
+          <item key="host_vendor" value="apple" />
+          <item key="htmldir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/doc/ruby" />
+          <item key="includedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include" />
+          <item key="infodir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/info" />
+          <item key="libdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/libexec" />
+          <item key="localedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/locale" />
+          <item key="localstatedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/var" />
+          <item key="mandir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3" />
+          <item key="pdfdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/doc/ruby" />
+          <item key="prefix" value="$USER_HOME$/.asdf/installs/ruby/2.5.7" />
+          <item key="psdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/doc/ruby" />
+          <item key="ridir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-2.5.pc" />
+          <item key="ruby_version" value="2.5.0" />
+          <item key="rubyarchdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0/x86_64-darwin20" />
+          <item key="rubyarchhdrdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/ruby-2.5.0/x86_64-darwin20" />
+          <item key="rubyarchprefix" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/x86_64-darwin20" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/ruby-2.5.0" />
+          <item key="rubylibdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0" />
+          <item key="rubylibprefix" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby" />
+          <item key="rubysitearchprefix" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/x86_64-darwin20" />
+          <item key="runstatedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/var/run" />
+          <item key="sbindir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/com" />
+          <item key="sitearch" value="x86_64-darwin20" />
+          <item key="sitearchdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby/2.5.0/x86_64-darwin20" />
+          <item key="sitearchhdrdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/ruby-2.5.0/site_ruby/x86_64-darwin20" />
+          <item key="sitearchincludedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/x86_64-darwin20" />
+          <item key="sitearchlibdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/x86_64-darwin20" />
+          <item key="sitedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/ruby-2.5.0/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby/2.5.0" />
+          <item key="sysconfdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/etc" />
+          <item key="target" value="x86_64-apple-darwin20" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin20" />
+          <item key="target_vendor" value="apple" />
+          <item key="topdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0/x86_64-darwin20" />
+          <item key="vendorarchdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin20" />
+          <item key="vendorarchhdrdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/ruby-2.5.0/vendor_ruby/x86_64-darwin20" />
+          <item key="vendordir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/ruby-2.5.0/vendor_ruby" />
+          <item key="vendorlibdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby/2.5.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="asdf: 2.5.7" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.5.7p206 ( revision 67816) p206" />
+      <homePath value="$USER_HOME$/.asdf/installs/ruby/2.5.7/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.5.7p206 ( revision 67816) p206" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.asdf/installs/ruby/2.5.7/bin">
+        <VERSION_MANAGER ID="asdf">
+          <distribution-id>2.5.7</distribution-id>
+          <version-manager-path>$USER_HOME$/.asdf/bin/asdf</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="libtool -static" />
+          <item key="ARFLAGS" value="-no_warning_for_no_symbols -o " />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BUILTIN_TRANSSRCS" value=" enc/trans/newline.c" />
+          <item key="CC" value="clang" />
+          <item key="CCDLFLAGS" value="-fno-common" />
+          <item key="CC_VERSION" value="clang --version" />
+          <item key="CC_VERSION_MESSAGE" value="Apple clang version 12.0.5 (clang-1205.0.22.9)&#10;Target: x86_64-apple-darwin20.5.0&#10;Thread model: posix&#10;InstalledDir: /Library/Developer/CommandLineTools/usr/bin" />
+          <item key="CFLAGS" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens  -fno-common -pipe" />
+          <item key="CHDIR" value="cd -P" />
+          <item key="CONFIGURE" value="configure" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="clang -E" />
+          <item key="CPPFLAGS" value="-I/Users/jwootonn/.asdf/installs/ruby/2.5.7/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT  " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+          <item key="DLDFLAGS" value="-L/Users/jwootonn/.asdf/installs/ruby/2.5.7/lib  -Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress" />
+          <item key="DLEXT" value="bundle" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="ECHO_C" value="\\c" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GIT" value="git" />
+          <item key="GNU_LD" value="no" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="HAVE_GIT" value="yes" />
+          <item key="INSTALL" value="/usr/local/bin/ginstall -c" />
+          <item key="INSTALL_DATA" value="/usr/local/bin/ginstall -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/local/bin/ginstall -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/local/bin/ginstall -c" />
+          <item key="INSTALL_STATIC_LIBRARY" value="no" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -L/Users/jwootonn/.asdf/installs/ruby/2.5.7/lib  -fstack-protector -L/usr/local/lib" />
+          <item key="LDSHARED" value="clang -dynamic -bundle" />
+          <item key="LDSHAREDXX" value="g++ -dynamic -bundle" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="DYLD_LIBRARY_PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libruby.2.5.7.dylib" />
+          <item key="LIBRUBYARG" value="-lruby.2.5.7" />
+          <item key="LIBRUBYARG_SHARED" value="-lruby.2.5.7" />
+          <item key="LIBRUBYARG_STATIC" value="-lruby.2.5.7-static -framework Foundation" />
+          <item key="LIBRUBY_A" value="libruby.2.5.7-static.a" />
+          <item key="LIBRUBY_ALIASES" value="libruby.2.5.dylib libruby.dylib" />
+          <item key="LIBRUBY_RELATIVE" value="no" />
+          <item key="LIBRUBY_SO" value="libruby.2.5.7.dylib" />
+          <item key="LIBRUBY_SONAME" value="libruby.2.5.dylib" />
+          <item key="LIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="LINK_SO" value="&#10;dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
+          <item key="LN_S" value="ln -s" />
+          <item key="MAJOR" value="2" />
+          <item key="MAKEDIRS" value="/usr/local/bin/gmkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="5" />
+          <item key="MKDIR_P" value="/usr/local/bin/gmkdir -p" />
+          <item key="NM" value="nm" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="206" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="POSTLINK" value="dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
+          <item key="PRELOADENV" value="DYLD_INSERT_LIBRARIES" />
+          <item key="PREP" value="miniruby exe/$(PROGRAM)" />
+          <item key="RANLIB" value=":" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir" />
+          <item key="RMDIRS" value="rmdir -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBY_API_VERSION" value="2.5" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_EXEC_PREFIX" value="$USER_HOME$/.asdf/installs/ruby/2.5.7" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="2.5.7" />
+          <item key="RUBY_SO_NAME" value="ruby.2.5.7" />
+          <item key="RUBY_VERSION_NAME" value="ruby-2.5.0" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOEXT" value="dylib" />
+          <item key="SOLIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="STRIP" value="strip -A -n" />
+          <item key="SYMBOL_PREFIX" value="_" />
+          <item key="TEENY" value="7" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="pthread" />
+          <item key="UNICODE_VERSION" value="10.0.0" />
+          <item key="USE_RUBYGEMS" value="YES" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="arch" value="x86_64-darwin20" />
+          <item key="archdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0/x86_64-darwin20" />
+          <item key="archincludedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/x86_64-darwin20" />
+          <item key="archlibdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/x86_64-darwin20" />
+          <item key="bindir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/bin" />
+          <item key="build" value="x86_64-apple-darwin20.5.0" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="darwin20.5.0" />
+          <item key="build_vendor" value="apple" />
+          <item key="cflags" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+          <item key="codesign" value="codesign" />
+          <item key="configure_args" value=" '--prefix=/Users/jwootonn/.asdf/installs/ruby/2.5.7' '--with-openssl-dir=/Users/jwootonn/.asdf/installs/ruby/2.5.7/openssl' '--enable-shared' '--with-readline-dir=/usr/local/opt/readline' 'CC=clang' 'LDFLAGS=-L/Users/jwootonn/.asdf/installs/ruby/2.5.7/lib ' 'CPPFLAGS=-I/Users/jwootonn/.asdf/installs/ruby/2.5.7/include '" />
+          <item key="cxxflags" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+          <item key="datadir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share" />
+          <item key="datarootdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/doc/ruby" />
+          <item key="dsymutil" value="dsymutil" />
+          <item key="dvidir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="$USER_HOME$/.asdf/installs/ruby/2.5.7" />
+          <item key="host" value="x86_64-apple-darwin20.5.0" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin20.5.0" />
+          <item key="host_vendor" value="apple" />
+          <item key="htmldir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/doc/ruby" />
+          <item key="includedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include" />
+          <item key="infodir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/info" />
+          <item key="libdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/libexec" />
+          <item key="localedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/locale" />
+          <item key="localstatedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/var" />
+          <item key="mandir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3" />
+          <item key="pdfdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/doc/ruby" />
+          <item key="prefix" value="$USER_HOME$/.asdf/installs/ruby/2.5.7" />
+          <item key="psdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/doc/ruby" />
+          <item key="ridir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-2.5.pc" />
+          <item key="ruby_version" value="2.5.0" />
+          <item key="rubyarchdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0/x86_64-darwin20" />
+          <item key="rubyarchhdrdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/ruby-2.5.0/x86_64-darwin20" />
+          <item key="rubyarchprefix" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/x86_64-darwin20" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/ruby-2.5.0" />
+          <item key="rubylibdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0" />
+          <item key="rubylibprefix" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby" />
+          <item key="rubysitearchprefix" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/x86_64-darwin20" />
+          <item key="runstatedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/var/run" />
+          <item key="sbindir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/com" />
+          <item key="sitearch" value="x86_64-darwin20" />
+          <item key="sitearchdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby/2.5.0/x86_64-darwin20" />
+          <item key="sitearchhdrdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/ruby-2.5.0/site_ruby/x86_64-darwin20" />
+          <item key="sitearchincludedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/x86_64-darwin20" />
+          <item key="sitearchlibdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/x86_64-darwin20" />
+          <item key="sitedir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/ruby-2.5.0/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/site_ruby/2.5.0" />
+          <item key="sysconfdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/etc" />
+          <item key="target" value="x86_64-apple-darwin20" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin20" />
+          <item key="target_vendor" value="apple" />
+          <item key="topdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/2.5.0/x86_64-darwin20" />
+          <item key="vendorarchdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin20" />
+          <item key="vendorarchhdrdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/ruby-2.5.0/vendor_ruby/x86_64-darwin20" />
+          <item key="vendordir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/include/ruby-2.5.0/vendor_ruby" />
+          <item key="vendorlibdir" value="$USER_HOME$/.asdf/installs/ruby/2.5.7/lib/ruby/vendor_ruby/2.5.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.5.7 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.5.7p206 ( revision 67816) p206" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.5.7p206 ( revision 67816) p206" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.5.7/bin">
+        <VERSION_MANAGER ID="rvm">
+          <distribution-id>ruby-2.5.7@global</distribution-id>
+          <version-manager-path>$USER_HOME$/.rvm/bin/rvm</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="libtool -static" />
+          <item key="ARFLAGS" value="-no_warning_for_no_symbols -o " />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BUILTIN_TRANSSRCS" value=" enc/trans/newline.c" />
+          <item key="CC" value="gcc" />
+          <item key="CCDLFLAGS" value="-fno-common" />
+          <item key="CC_VERSION" value="gcc --version" />
+          <item key="CC_VERSION_MESSAGE" value="Configured with: --prefix=/Library/Developer/CommandLineTools/usr --with-gxx-include-dir=/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/4.2.1&#10;Apple clang version 12.0.5 (clang-1205.0.22.11)&#10;Target: x86_64-apple-darwin20.5.0&#10;Thread model: posix&#10;InstalledDir: /Library/Developer/CommandLineTools/usr/bin" />
+          <item key="CFLAGS" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens  -fno-common -pipe" />
+          <item key="CHDIR" value="cd -P" />
+          <item key="CONFIGURE" value="configure" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="gcc -E" />
+          <item key="CPPFLAGS" value=" -I/usr/local/opt/libyaml/include -I/usr/local/opt/libksba/include -I/usr/local/opt/readline/include -I/usr/local/opt/zlib/include -I/usr/local/opt/openssl@1.1/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT  " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+          <item key="DLDFLAGS" value="-Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -L/usr/local/opt/libyaml/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/zlib/lib -L/usr/local/opt/openssl@1.1/lib" />
+          <item key="DLEXT" value="bundle" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="ECHO_C" value="\\c" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GIT" value="git" />
+          <item key="GNU_LD" value="no" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="HAVE_GIT" value="yes" />
+          <item key="INSTALL" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_DATA" value="/usr/local/opt/coreutils/bin/ginstall -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_STATIC_LIBRARY" value="no" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -fstack-protector -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/zlib/lib -L/usr/local/opt/openssl@1.1/lib" />
+          <item key="LDSHARED" value="gcc -dynamic -bundle" />
+          <item key="LDSHAREDXX" value="g++ -dynamic -bundle" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="DYLD_LIBRARY_PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libruby.2.5.7.dylib" />
+          <item key="LIBRUBYARG" value="-lruby.2.5.7" />
+          <item key="LIBRUBYARG_SHARED" value="-lruby.2.5.7" />
+          <item key="LIBRUBYARG_STATIC" value="-lruby.2.5.7-static -framework Foundation" />
+          <item key="LIBRUBY_A" value="libruby.2.5.7-static.a" />
+          <item key="LIBRUBY_ALIASES" value="libruby.2.5.dylib libruby.dylib" />
+          <item key="LIBRUBY_RELATIVE" value="no" />
+          <item key="LIBRUBY_SO" value="libruby.2.5.7.dylib" />
+          <item key="LIBRUBY_SONAME" value="libruby.2.5.dylib" />
+          <item key="LIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="LINK_SO" value="&#10;dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
+          <item key="LN_S" value="ln -s" />
+          <item key="MAJOR" value="2" />
+          <item key="MAKEDIRS" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="5" />
+          <item key="MKDIR_P" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="NM" value="nm" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="206" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="POSTLINK" value="dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
+          <item key="PRELOADENV" value="DYLD_INSERT_LIBRARIES" />
+          <item key="PREP" value="miniruby exe/$(PROGRAM)" />
+          <item key="RANLIB" value=":" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir" />
+          <item key="RMDIRS" value="rmdir -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBY_API_VERSION" value="2.5" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_EXEC_PREFIX" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="2.5.7" />
+          <item key="RUBY_SO_NAME" value="ruby.2.5.7" />
+          <item key="RUBY_VERSION_NAME" value="ruby-2.5.0" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOEXT" value="dylib" />
+          <item key="SOLIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="STRIP" value="strip -A -n" />
+          <item key="SYMBOL_PREFIX" value="_" />
+          <item key="TEENY" value="7" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="pthread" />
+          <item key="UNICODE_VERSION" value="10.0.0" />
+          <item key="USE_RUBYGEMS" value="YES" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="arch" value="x86_64-darwin20" />
+          <item key="archdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0/x86_64-darwin20" />
+          <item key="archincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/x86_64-darwin20" />
+          <item key="archlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/x86_64-darwin20" />
+          <item key="bindir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/bin" />
+          <item key="build" value="x86_64-apple-darwin20.5.0" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="darwin20.5.0" />
+          <item key="build_vendor" value="apple" />
+          <item key="cflags" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+          <item key="codesign" value="codesign" />
+          <item key="configure_args" value=" '--prefix=/Users/jwootonn/.rvm/rubies/ruby-2.5.7' '' '--with-opt-dir=/usr/local/opt/libyaml:/usr/local/opt/libksba:/usr/local/opt/readline:/usr/local/opt/zlib:/usr/local/opt/openssl@1.1' '--disable-install-doc' '--enable-shared' 'build_alias=' 'host_alias=' 'target_alias=' 'CC=gcc'" />
+          <item key="cxxflags" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+          <item key="datadir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share" />
+          <item key="datarootdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/doc/ruby" />
+          <item key="dsymutil" value="dsymutil" />
+          <item key="dvidir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7" />
+          <item key="host" value="x86_64-apple-darwin20.5.0" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin20.5.0" />
+          <item key="host_vendor" value="apple" />
+          <item key="htmldir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/doc/ruby" />
+          <item key="includedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include" />
+          <item key="infodir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/info" />
+          <item key="libdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/libexec" />
+          <item key="localedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/locale" />
+          <item key="localstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/var" />
+          <item key="mandir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3" />
+          <item key="pdfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/doc/ruby" />
+          <item key="prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7" />
+          <item key="psdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/doc/ruby" />
+          <item key="ridir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-2.5.pc" />
+          <item key="ruby_version" value="2.5.0" />
+          <item key="rubyarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0/x86_64-darwin20" />
+          <item key="rubyarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/ruby-2.5.0/x86_64-darwin20" />
+          <item key="rubyarchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/x86_64-darwin20" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/ruby-2.5.0" />
+          <item key="rubylibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0" />
+          <item key="rubylibprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby" />
+          <item key="rubysitearchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/x86_64-darwin20" />
+          <item key="runstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/var/run" />
+          <item key="sbindir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/com" />
+          <item key="sitearch" value="x86_64-darwin20" />
+          <item key="sitearchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0/x86_64-darwin20" />
+          <item key="sitearchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/ruby-2.5.0/site_ruby/x86_64-darwin20" />
+          <item key="sitearchincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/x86_64-darwin20" />
+          <item key="sitearchlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/x86_64-darwin20" />
+          <item key="sitedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/ruby-2.5.0/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0" />
+          <item key="sysconfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/etc" />
+          <item key="target" value="x86_64-apple-darwin20" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin20" />
+          <item key="target_vendor" value="apple" />
+          <item key="topdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0/x86_64-darwin20" />
+          <item key="vendorarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin20" />
+          <item key="vendorarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/ruby-2.5.0/vendor_ruby/x86_64-darwin20" />
+          <item key="vendordir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/ruby-2.5.0/vendor_ruby" />
+          <item key="vendorlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby/2.5.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.5.7" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.5.7p206 ( revision 67816) p206" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0" type="simple" />
+            <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0/x86_64-darwin20" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.5.7p206 ( revision 67816) p206" version="1" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/gems/ruby-2.5.7/bin">
+        <VERSION_MANAGER ID="rvm">
+          <distribution-id>ruby-2.5.7</distribution-id>
+          <version-manager-path>$USER_HOME$/.rvm/bin/rvm</version-manager-path>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="libtool -static" />
+          <item key="ARFLAGS" value="-no_warning_for_no_symbols -o " />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BUILTIN_TRANSSRCS" value=" enc/trans/newline.c" />
+          <item key="CC" value="gcc" />
+          <item key="CCDLFLAGS" value="-fno-common" />
+          <item key="CC_VERSION" value="gcc --version" />
+          <item key="CC_VERSION_MESSAGE" value="Configured with: --prefix=/Library/Developer/CommandLineTools/usr --with-gxx-include-dir=/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/4.2.1&#10;Apple clang version 12.0.5 (clang-1205.0.22.11)&#10;Target: x86_64-apple-darwin20.5.0&#10;Thread model: posix&#10;InstalledDir: /Library/Developer/CommandLineTools/usr/bin" />
+          <item key="CFLAGS" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens  -fno-common -pipe" />
+          <item key="CHDIR" value="cd -P" />
+          <item key="CONFIGURE" value="configure" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="gcc -E" />
+          <item key="CPPFLAGS" value=" -I/usr/local/opt/libyaml/include -I/usr/local/opt/libksba/include -I/usr/local/opt/readline/include -I/usr/local/opt/zlib/include -I/usr/local/opt/openssl@1.1/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT  " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+          <item key="DLDFLAGS" value="-Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -L/usr/local/opt/libyaml/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/zlib/lib -L/usr/local/opt/openssl@1.1/lib" />
+          <item key="DLEXT" value="bundle" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="ECHO_C" value="\\c" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GIT" value="git" />
+          <item key="GNU_LD" value="no" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="HAVE_GIT" value="yes" />
+          <item key="INSTALL" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_DATA" value="/usr/local/opt/coreutils/bin/ginstall -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/local/opt/coreutils/bin/ginstall -c" />
+          <item key="INSTALL_STATIC_LIBRARY" value="no" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -fstack-protector -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/zlib/lib -L/usr/local/opt/openssl@1.1/lib" />
+          <item key="LDSHARED" value="gcc -dynamic -bundle" />
+          <item key="LDSHAREDXX" value="g++ -dynamic -bundle" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="DYLD_LIBRARY_PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libruby.2.5.7.dylib" />
+          <item key="LIBRUBYARG" value="-lruby.2.5.7" />
+          <item key="LIBRUBYARG_SHARED" value="-lruby.2.5.7" />
+          <item key="LIBRUBYARG_STATIC" value="-lruby.2.5.7-static -framework Foundation" />
+          <item key="LIBRUBY_A" value="libruby.2.5.7-static.a" />
+          <item key="LIBRUBY_ALIASES" value="libruby.2.5.dylib libruby.dylib" />
+          <item key="LIBRUBY_RELATIVE" value="no" />
+          <item key="LIBRUBY_SO" value="libruby.2.5.7.dylib" />
+          <item key="LIBRUBY_SONAME" value="libruby.2.5.dylib" />
+          <item key="LIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="LINK_SO" value="&#10;dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
+          <item key="LN_S" value="ln -s" />
+          <item key="MAJOR" value="2" />
+          <item key="MAKEDIRS" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="5" />
+          <item key="MKDIR_P" value="/usr/local/opt/coreutils/bin/gmkdir -p" />
+          <item key="NM" value="nm" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="206" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="POSTLINK" value="dsymutil $@; { test -z '$(RUBY_CODESIGN)' || codesign -s '$(RUBY_CODESIGN)' -f $@; }" />
+          <item key="PRELOADENV" value="DYLD_INSERT_LIBRARIES" />
+          <item key="PREP" value="miniruby exe/$(PROGRAM)" />
+          <item key="RANLIB" value=":" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir" />
+          <item key="RMDIRS" value="rmdir -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBY_API_VERSION" value="2.5" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_EXEC_PREFIX" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="2.5.7" />
+          <item key="RUBY_SO_NAME" value="ruby.2.5.7" />
+          <item key="RUBY_VERSION_NAME" value="ruby-2.5.0" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOEXT" value="dylib" />
+          <item key="SOLIBS" value="-lpthread -lgmp -ldl -lobjc" />
+          <item key="STRIP" value="strip -A -n" />
+          <item key="SYMBOL_PREFIX" value="_" />
+          <item key="TEENY" value="7" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="pthread" />
+          <item key="UNICODE_VERSION" value="10.0.0" />
+          <item key="USE_RUBYGEMS" value="YES" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="arch" value="x86_64-darwin20" />
+          <item key="archdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0/x86_64-darwin20" />
+          <item key="archincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/x86_64-darwin20" />
+          <item key="archlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/x86_64-darwin20" />
+          <item key="bindir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/bin" />
+          <item key="build" value="x86_64-apple-darwin20.5.0" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="darwin20.5.0" />
+          <item key="build_vendor" value="apple" />
+          <item key="cflags" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+          <item key="codesign" value="codesign" />
+          <item key="configure_args" value=" '--prefix=/Users/jwootonn/.rvm/rubies/ruby-2.5.7' '' '--with-opt-dir=/usr/local/opt/libyaml:/usr/local/opt/libksba:/usr/local/opt/readline:/usr/local/opt/zlib:/usr/local/opt/openssl@1.1' '--disable-install-doc' '--enable-shared' 'build_alias=' 'host_alias=' 'target_alias=' 'CC=gcc'" />
+          <item key="cxxflags" value="-O3 -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+          <item key="datadir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share" />
+          <item key="datarootdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/doc/ruby" />
+          <item key="dsymutil" value="dsymutil" />
+          <item key="dvidir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7" />
+          <item key="host" value="x86_64-apple-darwin20.5.0" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="darwin20.5.0" />
+          <item key="host_vendor" value="apple" />
+          <item key="htmldir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/doc/ruby" />
+          <item key="includedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include" />
+          <item key="infodir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/info" />
+          <item key="libdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/libexec" />
+          <item key="localedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/locale" />
+          <item key="localstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/var" />
+          <item key="mandir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3" />
+          <item key="pdfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/doc/ruby" />
+          <item key="prefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7" />
+          <item key="psdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/doc/ruby" />
+          <item key="ridir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-2.5.pc" />
+          <item key="ruby_version" value="2.5.0" />
+          <item key="rubyarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0/x86_64-darwin20" />
+          <item key="rubyarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/ruby-2.5.0/x86_64-darwin20" />
+          <item key="rubyarchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/x86_64-darwin20" />
+          <item key="rubyhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/ruby-2.5.0" />
+          <item key="rubylibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0" />
+          <item key="rubylibprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby" />
+          <item key="rubysitearchprefix" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/x86_64-darwin20" />
+          <item key="runstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/var/run" />
+          <item key="sbindir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/com" />
+          <item key="sitearch" value="x86_64-darwin20" />
+          <item key="sitearchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0/x86_64-darwin20" />
+          <item key="sitearchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/ruby-2.5.0/site_ruby/x86_64-darwin20" />
+          <item key="sitearchincludedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/x86_64-darwin20" />
+          <item key="sitearchlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/x86_64-darwin20" />
+          <item key="sitedir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/ruby-2.5.0/site_ruby" />
+          <item key="sitelibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0" />
+          <item key="sysconfdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/etc" />
+          <item key="target" value="x86_64-apple-darwin20" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="darwin20" />
+          <item key="target_vendor" value="apple" />
+          <item key="topdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/2.5.0/x86_64-darwin20" />
+          <item key="vendorarchdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby/2.5.0/x86_64-darwin20" />
+          <item key="vendorarchhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/ruby-2.5.0/vendor_ruby/x86_64-darwin20" />
+          <item key="vendordir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/include/ruby-2.5.0/vendor_ruby" />
+          <item key="vendorlibdir" value="$USER_HOME$/.rvm/rubies/ruby-2.5.7/lib/ruby/vendor_ruby/2.5.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wmisleading-indentation -Wextra-tokens" />
+        </RbConfig>
+      </additional>
+    </jdk>
+  </component>
+</application>
