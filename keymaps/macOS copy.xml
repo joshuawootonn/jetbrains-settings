@@ -1,6 +1,19 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateCommitToolWindow" />
+  <action id="Adtui.ZoomToActualAction">
+    <keyboard-shortcut first-keystroke="meta numpad0" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="b" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="f" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="meta 0" second-keystroke="p" />
   </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl meta l" />
