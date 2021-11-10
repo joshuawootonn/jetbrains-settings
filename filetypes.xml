@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="rebrandCTAMobile" type="AUTO_DETECTED" />
       <mapping pattern="priceSection" type="AUTO_DETECTED" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="css" approved="true" type="PostCSS" />
