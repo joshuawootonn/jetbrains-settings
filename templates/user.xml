@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="fontboys" value="font-size: var(--font-size-$ASDF$);&#10;line-height: var(--line-height-$ASDF$);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="fontboys" value="font-size: var(--font-size-$ASDF$);&#10;line-height: var(--line-height-$ASDF$);" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="ASDF" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="true" />
